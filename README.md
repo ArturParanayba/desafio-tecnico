@@ -20,9 +20,7 @@ Tanto o banco quanto a aplicação, deverão estar dockerizados e rodando contai
 
 A aplicação deverá ter o CRUD completo dos 3 objetivos principais citados e também deverá contar com autenticação completa (Login com senha retornando token para autenticação das rotas)
 
-Faça um clone do repositorio na sua máquina e monte a aplicação.
-
-Suba o código feito em um novo reposítorio no seu github e envie o link do repo  ao término do desafio.
+Suba o código feito em um novo reposítorio no seu github e envie o link do repo ao término do desafio.
 
 Você tem 7 dias para entregar o desafio!
 
