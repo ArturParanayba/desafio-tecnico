@@ -27,15 +27,11 @@ Você tem 7 dias para entregar o desafio!
 
 ## Detalhamento:
 
-Professor: 
- Deverá ter nome e a materia na qual ele dá aula
+Professor: Deverá ter nome e a materia na qual ele dá aula
  
- Matéria:
- Nome e conteúdo (string)
+ Matéria: Nome e conteúdo (string)
 
-Aula:
-
-Professor que ministrará a aula, materia e dia/horário da aula
+Aula: Professor que ministrará a aula, materia e dia/horário da aula
 
  OBS: Não se preocupe com questão de agendamento de aula, ou de choque de horário. O Campo de horario poderá ser uma string. 
  
