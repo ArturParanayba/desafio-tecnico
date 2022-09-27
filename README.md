@@ -1,3 +1,12 @@
+<div align="center">
+<span align="center">
+  <img src="https://nestjs.com/img/logo_text.svg" width="350" alt="Nest Logo" />
+</span>
+<span align="center">
+  <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" width="350" alt="typeOrm Logo" />
+</span>
+</div>
+
 # Desafio Técnico - Backend
 Desafio técnico para entrada no time de desenvolvimento
 
@@ -18,7 +27,7 @@ Suba o código feito em um novo reposítorio no seu github e envie o link do rep
 Você tem 7 dias para entregar o desafio!
 
 
-Detalhamento:
+## Detalhamento:
 
 Professor: 
  Deverá ter nome e a materia na qual ele dá aula
